@@ -8,7 +8,7 @@
 .container{
     width: 100vw;
     height: 100vh;
-    background-image: url(images/Background\ AC.webp);
+    background-image: url(images/1662835722250.webp);
     background-position: center;
     background-position: cover;
     padding:0 8%;
@@ -60,7 +60,7 @@
     font-size: 60px;
     margin-bottom: -14px;
 }
-.Cake{
+.AC{
     width: 250px;
     position: absolute;
     right: 10%;
